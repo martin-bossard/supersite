@@ -1,12 +1,20 @@
 ## Postdoctoral Research Associate, Cardiff University
 
-You can use the [editor on GitHub](https://github.com/martin-bossard/supersite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+bossardm@cardiff.ac.uk
+bossard.martin@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+School of Psychology
+Tower Building, Park Place
+Cardiff University
+Cardiff, CF10 3AT, United Kingdom.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Qualification to Lecturer positions in France. Sport Sciences and Physical Activities (CNU section 74)
+Ph.D. in Human Movement Sciences              Aix-Marseille University, France
+M.Sc. in Human Movement Sciences              Aix-Marseille University, France
+B.Sc. Ergonomics in Sport                     Rennes 2 University, France
+B.Sc. Adapted Physical Activity and Health    Rennes 2 University, France
 
 ```markdown
 Syntax highlighted code block
