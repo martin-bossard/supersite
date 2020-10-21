@@ -1,20 +1,20 @@
 ## Postdoctoral Research Associate, Cardiff University
 
-bossardm@cardiff.ac.uk
-bossard.martin@gmail.com
+bossardm@cardiff.ac.uk <br>
+bossard.martin@gmail.com <br>
 
-School of Psychology
-Tower Building, Park Place
-Cardiff University
+School of Psychology <br>
+Tower Building, Park Place <br>
+Cardiff University <br>
 Cardiff, CF10 3AT, United Kingdom.
 
 ### Education
 
-Qualification to Lecturer positions in France. Sport Sciences and Physical Activities (CNU section 74)
-Ph.D. in Human Movement Sciences              Aix-Marseille University, France
-M.Sc. in Human Movement Sciences              Aix-Marseille University, France
-B.Sc. Ergonomics in Sport                     Rennes 2 University, France
-B.Sc. Adapted Physical Activity and Health    Rennes 2 University, France
+Qualification to Lecturer positions in France. Sport Sciences and Physical Activities (CNU section 74) <br>
+**Ph.D.** in Human Movement Sciences              Aix-Marseille University, France <br>
+**M.Sc.** in Human Movement Sciences              Aix-Marseille University, France <br>
+**B.Sc.** in Ergonomics in Sport                     Rennes 2 University, France <br>
+**B.Sc.** in Adapted Physical Activity and Health    Rennes 2 University, France
 
 ```markdown
 Syntax highlighted code block
