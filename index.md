@@ -11,10 +11,27 @@ Cardiff, CF10 3AT, United Kingdom.
 ### Education
 
 Qualification to Lecturer positions in France. Sport Sciences and Physical Activities (CNU section 74) <br>
+
+<table>
+  <tr>
+    <td>Jean</td>
+    <td>Biche</td>
+  </tr>
+  <tr>
+    <td>Jeanne</td>
+    <td>Biche</td>
+  </tr>
+</table>
+
 **Ph.D.** in Human Movement Sciences              Aix-Marseille University, France <br>
 **M.Sc.** in Human Movement Sciences              Aix-Marseille University, France <br>
 **B.Sc.** in Ergonomics in Sport                     Rennes 2 University, France <br>
 **B.Sc.** in Adapted Physical Activity and Health    Rennes 2 University, France
+
+### Ph.D. Research focus
+
+During my Ph.D. I worked on visual perception of self-motion and path integration in a traveled distance estimation task. More particularly, I am interested in the role of the visual consequences of locomotion (especially head motion during natural walking) in self-motion perception. I am currently working on self-motion perception during treadmill walking with the presence or not of viewpoint oscillations and I am also conducting further experiments involving a continuous pointing task.
+
 
 ```markdown
 Syntax highlighted code block
