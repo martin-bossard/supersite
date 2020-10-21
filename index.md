@@ -14,19 +14,23 @@ Qualification to Lecturer positions in France. Sport Sciences and Physical Activ
 
 <table>
   <tr>
-    <td>**Ph.D.** in Human Movement Sciences</td>
+    <th>Ph.D.</th>
+    <td> in Human Movement Sciences</td>
     <td>Aix-Marseille University, France</td>
   </tr>
   <tr>
-    <td>**M.Sc.** in Human Movement Sciences</td>
+    <th>M.Sc.</th>
+    <td> in Human Movement Sciences</td>
     <td>Aix-Marseille University, France</td>
   </tr>
   <tr>
-    <td>**B.Sc.** in Ergonomics in Sport</td>
+    <th>B.Sc.</th>
+    <td> in Ergonomics in Sport</td>
     <td>Rennes 2 University, France</td>
   </tr>
   <tr>
-    <td>**B.Sc.** in Adapted Physical Activity and Health</td>
+    <th>B.Sc.</th>
+    <td> in Adapted Physical Activity and Health</td>
     <td>Rennes 2 University, France</td>
   </tr>
 </table>
