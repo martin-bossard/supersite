@@ -8,6 +8,9 @@ Tower Building, Park Place <br>
 Cardiff University <br>
 Cardiff, CF10 3AT, United Kingdom.
 
+[ResearchGate](https://www.researchgate.net/profile/Martin_Bossard) [Scholar](https://scholar.google.fr/citations?user=yBxnJuYAAAAJ&hl=fr)
+
+
 ### Education
 
 Qualification to Lecturer positions in France. Sport Sciences and Physical Activities (CNU section 74) <br>
