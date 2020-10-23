@@ -10,6 +10,9 @@ Cardiff, CF10 3AT, United Kingdom.
 
 ### Education
 
+[Link](https://www.youtube.com/watch?v=vrus2Jwi67A&ab_channel=Thinkerview) 
+and ![Image](src)
+
 Qualification to Lecturer positions in France. Sport Sciences and Physical Activities (CNU section 74) <br>
 
 <table>
